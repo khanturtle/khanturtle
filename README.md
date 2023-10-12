@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanturtle&show_icons=true&theme=radical)
+### :octocat: Boj Algorithmn
+<table id="stats">
+  <tr>
+  <td valign="top" width="50%"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whwnsgh0310" align="left" style="width: 80%" /></td>
+  </tr>
+</table>
