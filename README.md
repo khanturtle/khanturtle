@@ -15,9 +15,4 @@
   </tr>
 </table>
 
-### :octocat: Boj Algorithmn
-<table id="stats">
-  <tr>
-    <td valign="top" width="50%"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whwnsgh0310" align="left" style="width: 80%" /></td>
-  </tr>
-</table>
+
