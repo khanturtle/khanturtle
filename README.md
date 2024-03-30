@@ -3,6 +3,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/barrel_prooof)
 <a href="https://velog.io/@khanturtle"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"></a>
 
+## About Me
+- I am a web back-end developer.
 
 
 ### :octocat: My Github Stats
