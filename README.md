@@ -3,8 +3,8 @@
 <a href="https://velog.io/@khanturtle"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"></a>
 
 ## Education
-- 2024.02~2024.07 Spharos Academy 4th
-- 2023.10~2024.02 내일 배움 캠프 3rd
+- 2024.02~2024.07 Spharos Academy 4기
+- 2023.10~2024.02 내일 배움 캠프 Spring 3기
 - 2017.03~2024.02 부산대학교 전기컴퓨터공학부 정보컴퓨터공학과
 
 ### :octocat: My Github Stats
