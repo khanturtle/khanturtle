@@ -2,8 +2,11 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/barrel_prooof)
 <a href="https://velog.io/@khanturtle"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"></a>
 
+## About Me
+성능 최적화를 위해 노력하며 클린코드를 지향하는 웹 백엔드 개발자입니다.
+
 ## Education
-- 2024.02~2024.07 Spharos Academy 4기
+- 2024.02~2024.07 신세계 I&C Spharos Academy 4기
 - 2023.10~2024.02 내일 배움 캠프 Spring 3기
 - 2017.03~2024.02 부산대학교 전기컴퓨터공학부 정보컴퓨터공학과
 
