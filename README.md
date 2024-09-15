@@ -3,7 +3,7 @@
 <a href="https://velog.io/@khanturtle"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"></a>
 
 ## About Me
-성능 최적화를 위해 노력하며 클린코드를 지향하는 웹 백엔드 개발자입니다.
+고객의 목소리를 귀기울여 듣고 성능 최적화를 통한 사용자 경험 향상을 위해 노력하는 개발자 조준호입니다.
 
 ## Education
 - 2024.02~2024.07 신세계 I&C Spharos Academy 4기
